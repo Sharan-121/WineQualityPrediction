@@ -1,5 +1,3 @@
-### Wine Quality Prediction
-
 ### Problem Definition
 
 ### Data
